@@ -14,8 +14,14 @@ type Block struct {
 func CreateBlock(data string, prevHash []byte) *Block { //* to say use this block
 	block := &Block{[]byte{}, []byte(data), prevHash, 0}
 	pow := NewProof(block)
+
+	//fmt.Printf("pow inside createBlock is: %v\n", pow)
+
 	nonce, hash := pow.Run()
 
+	//fmt.Printf("nonce inside createBlock is: %v\n", nonce)
+
+	//fmt.Printf("hash inside createBlock is: %x\n", hash)
 	block.Hash = hash[:]
 	block.Nonce = nonce
 
