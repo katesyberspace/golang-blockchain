@@ -1,0 +1,4 @@
+github.com/Pallinder/go-randomdata v1.1.0 h1:gUubB1IEUliFmzjqjhf+bgkg1o6uoFIkRsP3VrhEcx8=
+github.com/Pallinder/go-randomdata v1.1.0/go.mod h1:yHmJgulpD2Nfrm0cR9tI/+oAgRqCQQixsA8HyRZfV9Y=
+github.com/misocactus/golang-blockchain v0.0.0-20190303084145-3d5e592ee29e h1:S5dHKfc2fPOKWZmxx2kIgbjmew8pZ4tZoPwlg4btCBg=
+github.com/misocactus/golang-blockchain v0.0.0-20190303084145-3d5e592ee29e/go.mod h1:G4JlcE2xvgakPlR8ysQgG0ZTufk1oxgCGaljd8IWv5k=
