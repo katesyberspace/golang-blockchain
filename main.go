@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/misocactus/golang-blockchain/blockchain"
+	"github.com/katesyberspace/golang-blockchain/blockchain"
 	"strconv"
 )
 

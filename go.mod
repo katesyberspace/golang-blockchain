@@ -1,4 +1,4 @@
-module github.com/katesyberspace/golang-blockhain
+module github.com/katesyberspace/golang-blockchain
 
 require (
 	github.com/Pallinder/go-randomdata v1.1.0
